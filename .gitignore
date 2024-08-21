@@ -3,4 +3,3 @@ terraform*.*
 .terraform/*
 .terraform/
 **/.terraform/
-VPC/.terraform/
